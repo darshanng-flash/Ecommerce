@@ -62,9 +62,6 @@ ecommerce/
 
 ---
 
-## 📸 Screenshots  
-(Add some screenshots of your homepage, cart, checkout, and admin panel here.)  
-
 ---
 
 ## 📌 How to Run  
