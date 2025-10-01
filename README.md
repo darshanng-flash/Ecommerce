@@ -80,4 +80,4 @@ ecommerce/
 ---
 
 ## 🧑‍💻 Author  
-Developed by Parikshith S
+Developed by Parikshith S & @darshanng-flash
